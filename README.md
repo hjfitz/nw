@@ -11,5 +11,8 @@ wget https://github.com/hjfitz/nw/releases/download/v1.0.0/nw ~/.bin/
 
 ## Usage
 ```bash
-nw --word=something
+hjf@larissa:~/code/git/nw% nw --word=sandwich
+BLT                 Reuben              hero                hoagie              sub
+Dagwood             club sandwich       open-faced sandwich submarine sandwich  
+hjf@larissa:~/code/git/nw% 
 ```
